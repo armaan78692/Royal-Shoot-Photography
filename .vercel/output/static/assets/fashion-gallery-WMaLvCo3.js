@@ -1,0 +1,1 @@
+import{n as e}from"./index-Bc3zci8a.js";import{r as t,s as n}from"./gallery-data-CL1S16dU.js";var r=e(),i=()=>(0,r.jsx)(n,{eyebrow:`Model Shoot`,title:`Editorial light,`,highlight:`bold form.`,description:`Lookbooks, campaigns and couture editorials with our signature cinematic palette.`,images:t});export{i as component};
