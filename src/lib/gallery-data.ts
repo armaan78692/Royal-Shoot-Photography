@@ -64,6 +64,43 @@ import birthday7 from "@/assets/Birthday-7.jpg"
 import birthday8 from "@/assets/Birthday-8.jpg"
 import birthday9 from "@/assets/Birthday-9.jpg"
 import birthday10 from "@/assets/Birthday-10.jpg"
+
+//UPDATES
+
+import WED from "@/assets/WED.jpg"
+import WED1 from "@/assets/WED1.jpg"
+import WED2 from "@/assets/WED2.jpg"
+import WED3 from "@/assets/WED3.jpg"
+import WED4 from "@/assets/WED4.jpg"
+import WED5 from "@/assets/WED5.jpg"
+import WED6 from "@/assets/WED6.jpg"
+import WED7 from "@/assets/WED7.jpg"
+import WED8 from "@/assets/WED8.jpg"
+import WED9 from "@/assets/WED9.jpg"
+import WED10 from "@/assets/WED10.jpg"
+import WED11 from "@/assets/WED11.jpg"
+
+import BDAY1 from "@/assets/BDAY1.jpg"
+import BDAY2 from "@/assets/BDAY2.jpg"
+import BDAY3 from "@/assets/BDAY3.jpg"
+import BDAY4 from "@/assets/BDAY4.jpg"
+import BDAY5 from "@/assets/BDAY5.jpg"
+import BDAY6 from "@/assets/BDAY6.jpg"
+
+import EVE1 from "@/assets/EVE1.jpg"
+import EVE2 from "@/assets/EVE2.jpg"
+import EVE3 from "@/assets/EVE3.jpg"
+import EVE4 from "@/assets/EVE4.jpg"
+import EVE5 from "@/assets/EVE5.jpg"
+import EVE6 from "@/assets/EVE6.jpg"
+import EVE7 from "@/assets/EVE7.jpg"
+import EVE8 from "@/assets/EVE8.jpg"
+import EVE9 from "@/assets/EVE9.jpg"
+import EVE10 from "@/assets/EVE10.jpg"
+import EVE11 from "@/assets/EVE11.jpg"
+
+import Hospital_eve from "@/assets/HOSPITAL-EVENT.jpg"
+
 import type { GalleryImage } from "@/components/site/CategoryGallery";
 
 const w1 = wedding1Asset;
@@ -77,7 +114,7 @@ const make = (src: string, alt: string): GalleryImage => ({ src, alt });
 export const weddingImages: GalleryImage[] = [
   make(w1, "Sanaya & Arjun — Wedding"),
   make(hb, "Bridal portrait"),
-  make(wedding2, "Riya & Rohan — Wedding"),
+  // make(wedding2, "Riya & Rohan — Wedding"),
   make(hc, "Couple portrait"),
   make(preWedding6, "Bridal portrait"),
   make(weddingGroom, "Vows exchanged"),
@@ -88,6 +125,18 @@ export const weddingImages: GalleryImage[] = [
   make(wedding1, "Golden hour couple"),
   make(wedding3, "Bride's quiet moment"),
   make(wedding4, "Bride's quiet moment"),
+  make(WED, "Bride's quiet moment"),
+  make(WED1, "Bride's quiet moment"),
+  make(WED2, "Bride's quiet moment"),
+  make(WED3, "Bride's quiet moment"),
+  make(WED4, "Bride's quiet moment"),
+  make(WED5, "Bride's quiet moment"),
+  make(WED6, "Bride's quiet moment"),
+  make(WED7, "Bride's quiet moment"),
+  make(WED8, "Bride's quiet moment"),
+  make(WED9, "Bride's quiet moment"),
+  make(WED10, "Bride's quiet moment"),
+  make(WED11, "Bride's quiet moment"),
 ];
 
 export const preWeddingImages: GalleryImage[] = [
@@ -104,13 +153,26 @@ export const eventImages: GalleryImage[] = [
   make(event1, "Reception lights"),
   make(event5, "Taj Palace Gala"),
   make(event9, "Stage lighting"),
-  make(event6, "Taj Palace Gala"),
   make(event8, "Taj Palace Gala"),
   make(event10, "Crowd moments"),
+  make(event6, "Taj Palace Gala"),
   make(event3, "Taj Palace Gala"),
   make(event11, "Taj Palace Gala"),
   make(event12, "Taj Palace Gala"),
   make(event13, "Taj Palace Gala"),
+  make(EVE1, "Taj Palace Gala"),
+  make(EVE2, "Taj Palace Gala"),
+  make(EVE3, "Taj Palace Gala"),
+  make(EVE4, "Taj Palace Gala"),
+  make(EVE5, "Taj Palace Gala"),
+  make(EVE6, "Taj Palace Gala"),
+  make(EVE7, "Taj Palace Gala"),
+  make(EVE8, "Taj Palace Gala"),
+  make(EVE9, "Taj Palace Gala"),
+  make(EVE10, "Taj Palace Gala"),
+  make(EVE11, "Taj Palace Gala"),
+  make(Hospital_eve, "Taj Palace Gala"),
+  
 ];
 
 export const fashionImages: GalleryImage[] = [
@@ -131,6 +193,7 @@ export const portraitImages: GalleryImage[] = [     //Birthday Section
   make(birthday1, "Window Light Study"),
   make(birthday2, "Couple portrait"),
   make(birthday6, "Outdoor portrait"),
+  make(BDAY1, "Headshot session"),
   make(birthday3, "Quiet portrait"),
   make(birthday4, "Soft daylight"),
   make(birthday7, "Family frame"),
@@ -139,6 +202,11 @@ export const portraitImages: GalleryImage[] = [     //Birthday Section
   make(birthday9, "Quiet portrait"),
   make(birthdayEvent, "Black & white study"),
   make(birthday10, "Headshot session"),
+  make(BDAY2, "Headshot session"),
+  make(BDAY3, "Headshot session"),
+  make(BDAY4, "Headshot session"),
+  make(BDAY5, "Headshot session"),
+  make(BDAY6, "Headshot session"),
  
 ];
 
