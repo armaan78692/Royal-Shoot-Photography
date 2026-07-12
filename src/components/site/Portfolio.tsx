@@ -112,12 +112,14 @@ export function Portfolio() {
             <span className="eyebrow">Explore the archive</span>
             <span className="hairline" />
           </div>
-          <Link
-            to="/portfolio"
+          <a
+            href="https://drive.google.com/file/d/1TpNK7FAmQ8E0OGqU3iiiR4yZFyMWpTNf/view?usp=sharing"
+            target="_blank"
+            rel="noopener noreferrer"
             className="inline-flex items-center gap-3 border border-gold/60 px-10 py-4 text-xs uppercase tracking-[0.3em] text-gold transition-all hover:bg-gold hover:text-ink hover:shadow-[0_0_28px_rgba(212,175,55,0.35)]"
           >
             View Full Portfolio <ArrowUpRight size={16} />
-          </Link>
+          </a>
         </div>
       </div>
     </section>
