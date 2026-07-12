@@ -1,0 +1,1 @@
+import{n as e}from"./index-DSplRk-Y.js";import{o as t,s as n}from"./gallery-data-DNAFdb3C.js";var r=e(),i=()=>(0,r.jsx)(n,{eyebrow:`Wedding Stories`,title:`Sacred vows.`,highlight:`Timeless frames.`,description:`A curated collection from weddings we've had the honour of photographing — from quiet rituals to grand celebrations.`,images:t});export{i as component};
