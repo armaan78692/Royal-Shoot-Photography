@@ -1,1 +1,0 @@
-import{n as e}from"./index-Bc3zci8a.js";import{n as t,s as n}from"./gallery-data-CL1S16dU.js";var r=e(),i=()=>(0,r.jsx)(n,{eyebrow:`Events`,title:`Evenings made`,highlight:`memorable.`,description:`From intimate gatherings to grand galas — coverage that captures the rhythm of the night.`,images:t});export{i as component};
