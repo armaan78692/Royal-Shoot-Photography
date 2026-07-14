@@ -1,0 +1,1 @@
+import{n as e}from"./index-Bc3zci8a.js";import{s as t,t as n}from"./gallery-data-CL1S16dU.js";var r=e(),i=()=>(0,r.jsx)(t,{eyebrow:`Award & Recognition`,title:`Moments,`,highlight:`like cinema.`,description:`Anamorphic frames, slow-motion stories and film-grain stills from our cinematic chapters.`,images:n});export{i as component};
