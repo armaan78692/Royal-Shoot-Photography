@@ -1,1 +1,0 @@
-import{n as e}from"./index-DSplRk-Y.js";import{i as t,s as n}from"./gallery-data-DNAFdb3C.js";var r=e(),i=()=>(0,r.jsx)(n,{eyebrow:`Birthday`,title:`Quiet light,`,highlight:`honest frames.`,description:`Portrait sessions designed around you — soft daylight, classic studio and editorial finishes.`,images:t});export{i as component};
