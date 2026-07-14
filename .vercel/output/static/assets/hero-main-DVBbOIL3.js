@@ -1,1 +1,0 @@
-var e=`/assets/hero-main-ChMFIbZY.jpg`;export{e as t};

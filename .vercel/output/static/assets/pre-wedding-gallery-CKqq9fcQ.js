@@ -1,1 +1,0 @@
-import{n as e}from"./index-DSplRk-Y.js";import{a as t,s as n}from"./gallery-data-DNAFdb3C.js";var r=e(),i=()=>(0,r.jsx)(n,{eyebrow:`Pre-Wedding`,title:`Love stories,`,highlight:`unposed.`,description:`Editorial pre-wedding films and stills shot across hills, oceans and quiet studios.`,images:t});export{i as component};
